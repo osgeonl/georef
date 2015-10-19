@@ -22,5 +22,5 @@ methode van rubbersheeting bespreken, waarmee de tiles worden vervormd tot ze pr
 over de oude kaart passen. Tenslotte zal ik aangeven hoe database-gegevens op basis van 
 RD-coordinaten zo getransformeerd kunnen worden dat ze over de originele oude kaart 
 kunnen worden getransformeerd. Als voorbeeld worden de prachtige kaarten van Amsterdam 
-van 1544 en 17632 worden gebruikt.  De methode is generaliseerbaar naar elke willekeurige oude kaart, 
+van 1544 en 1632 worden gebruikt.  De methode is generaliseerbaar naar elke willekeurige oude kaart, 
 in wat voor positie dan ook."*
